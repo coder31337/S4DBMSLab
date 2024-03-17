@@ -86,3 +86,7 @@ INSERT INTO EMPLOYEE VALUES ('Ramesh',   'K', 'Narayan', '666884444', '1962-09-1
 INSERT INTO EMPLOYEE VALUES ('Joyce',    'A', 'English', '453453453', '1972-07-31', '5631 Rice, Houston, TX',   'F', 25000, '333445555', 5);
 INSERT INTO EMPLOYEE VALUES ('Ahmad',    'V', 'Jabbar',  '987987987', '1969-03-29', '980 Dallas, Houston, TX',  'M', 25000, '987654321', 4);
 INSERT INTO EMPLOYEE VALUES ('James',    'E', 'Borg',    '888665555', '1937-11-10', '450 Stone, Houston, TX',   'M', 55000, NULL,        1);
+
+INSERT INTO DEPARTMENT VALUES ('Research',       5, '333445555', '1988-05-22');
+INSERT INTO DEPARTMENT VALUES ('Administration', 4, '987654321', '1995-01-01');
+INSERT INTO DEPARTMENT VALUES ('Headquarters',   1, '888665555', '1981-06-19');
