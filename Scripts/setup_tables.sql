@@ -96,3 +96,10 @@ INSERT INTO DEPT_LOCATIONS VALUES (4, 'Stafford');
 INSERT INTO DEPT_LOCATIONS VALUES (5, 'Bellaire');
 INSERT INTO DEPT_LOCATIONS VALUES (5, 'Sugarland');
 INSERT INTO DEPT_LOCATIONS VALUES (5, 'Houston');
+
+INSERT INTO PROJECT VALUES ('ProductX',         1, 'Bellaire',  5);
+INSERT INTO PROJECT VALUES ('ProductY',         2, 'Sugarland', 5);
+INSERT INTO PROJECT VALUES ('ProductZ',         3, 'Houston',   5);
+INSERT INTO PROJECT VALUES ('Computerization', 10, 'Stafford',  4);
+INSERT INTO PROJECT VALUES ('Reorganization',  20, 'Houston',   1);
+INSERT INTO PROJECT VALUES ('Newbenefits',     30, 'Stafford',  4);
